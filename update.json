@@ -1,7 +1,1 @@
-{
-  "version": "0.3.0",
-  "build": 1003,
-  "apk_url": "https://github.com/Nrzxl/saturn-downloads/releases/download/v0.3.0-b1003/app-release.apk",
-  "sha256": "3688ef0c4e0d92bef478a9248abf194366dfb7b40a007ac4d194bf783be5384a",
-  "notes": "Atualização Android SATURN."
-}
+{"version": "0.4.0", "build": 1005, "apk_url": "https://github.com/Nrzxl/saturn-downloads/releases/download/v0.4.0-b1005/SATURN.apk", "sha256": "659d1614160db82948e904b297cfdc98c806fdb7f6681f0c5c956fc1dfa79a4b", "notes": "Atualiza\u00e7\u00e3o Android SATURN."}
