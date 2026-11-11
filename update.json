@@ -1,7 +1,1 @@
-{
-  "version": "0.7.0",
-  "build": 2006,
-  "apk_url": "https://github.com/Nrzxl/saturn-downloads/releases/download/v0.7.0-b2006/SATURN.apk",
-  "sha256": "e18e6d4c45c520b418f0225be30a9ce3cc60b8ddbc4f344a81c46f4840d05479",
-  "notes": "SATURN Android 0.7.0: atualização assinada, correções e melhorias de desempenho."
-}
+{"notes":"SATURN Android atualizado.","sha256":"27664d340f2091048dbc4ca680e1f866ae5292aaf526ff50fef6d4846b2f7885","build":2007,"version":"0.7.0","apk_url":"https://github.com/Nrzxl/saturn-downloads/releases/download/v0.7.0-b2007/SATURN.apk"}
